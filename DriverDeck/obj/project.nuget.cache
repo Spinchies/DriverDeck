@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ou4eMuMu23nzF7XF7Gr2iQaT26eh1zmSrVaCAd43UDQVYnqOKEYlAO40DolC71gXFvdBig21vC5Ml5GPCH3P0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kayla\\Desktop\\DriverDeck\\DriverDeck\\DriverDeck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayla\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
+  "logs": []
+}

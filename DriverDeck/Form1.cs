@@ -248,6 +248,11 @@ namespace DriverDeck
                 Process.Start(new ProcessStartInfo("cmd", $"/c start microsoft-edge:https://cdn.iobit.com/dl/unlocker-setup.exe") { CreateNoWindow = true });
                 Thread.Sleep(100);
             }
+            if (checkBox30.Checked) 
+            {
+                Process.Start(new ProcessStartInfo("cmd", $"/c start microsoft-edge:https://github.com/abbodi1406/vcredist/releases/download/v0.70.0/VisualCppRedist_AIO_x86_x64_70.zip") { CreateNoWindow = true });
+                Thread.Sleep(100);
+            }
             string downloadsPath = KnownFolders.GetPath(KnownFolder.Downloads);
             string dir = downloadsPath;
             try
@@ -398,6 +403,11 @@ namespace DriverDeck
         }
 
         private void checkBox28_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox30_CheckedChanged(object sender, EventArgs e)
         {
 
         }

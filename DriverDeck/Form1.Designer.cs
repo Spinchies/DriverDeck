@@ -59,6 +59,7 @@
             checkBox27 = new CheckBox();
             checkBox28 = new CheckBox();
             checkBox29 = new CheckBox();
+            checkBox30 = new CheckBox();
             SuspendLayout();
             // 
             // checkBox1
@@ -418,6 +419,18 @@
             checkBox29.Text = "IOBit Unlocker";
             checkBox29.UseVisualStyleBackColor = false;
             // 
+            // checkBox30
+            // 
+            checkBox30.AutoSize = true;
+            checkBox30.BackColor = Color.Transparent;
+            checkBox30.Location = new Point(159, 212);
+            checkBox30.Name = "checkBox30";
+            checkBox30.Size = new Size(73, 19);
+            checkBox30.TabIndex = 31;
+            checkBox30.Text = "VCRedist";
+            checkBox30.UseVisualStyleBackColor = false;
+            checkBox30.CheckedChanged += checkBox30_CheckedChanged;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -426,6 +439,7 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Center;
             ClientSize = new Size(442, 423);
+            Controls.Add(checkBox30);
             Controls.Add(checkBox29);
             Controls.Add(checkBox28);
             Controls.Add(checkBox27);
@@ -499,5 +513,6 @@
         private CheckBox checkBox27;
         private CheckBox checkBox28;
         private CheckBox checkBox29;
+        private CheckBox checkBox30;
     }
 }
