@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kayla\\Desktop\\DriverDeck\\DriverDeck\\DriverDeck.csproj": {}
+    "C:\\Users\\kayla\\Desktop\\Driver Deck\\DriverDeck-dev\\DriverDeck\\DriverDeck.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kayla\\Desktop\\DriverDeck\\DriverDeck\\DriverDeck.csproj": {
+    "C:\\Users\\kayla\\Desktop\\Driver Deck\\DriverDeck-dev\\DriverDeck\\DriverDeck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kayla\\Desktop\\DriverDeck\\DriverDeck\\DriverDeck.csproj",
+        "projectUniqueName": "C:\\Users\\kayla\\Desktop\\Driver Deck\\DriverDeck-dev\\DriverDeck\\DriverDeck.csproj",
         "projectName": "DriverDeck",
-        "projectPath": "C:\\Users\\kayla\\Desktop\\DriverDeck\\DriverDeck\\DriverDeck.csproj",
+        "projectPath": "C:\\Users\\kayla\\Desktop\\Driver Deck\\DriverDeck-dev\\DriverDeck\\DriverDeck.csproj",
         "packagesPath": "C:\\Users\\kayla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kayla\\Desktop\\DriverDeck\\DriverDeck\\obj\\",
+        "outputPath": "C:\\Users\\kayla\\Desktop\\Driver Deck\\DriverDeck-dev\\DriverDeck\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kayla\\AppData\\Roaming\\NuGet\\NuGet.Config",

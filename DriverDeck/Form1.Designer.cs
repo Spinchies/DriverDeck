@@ -425,9 +425,9 @@
             checkBox30.BackColor = Color.Transparent;
             checkBox30.Location = new Point(159, 212);
             checkBox30.Name = "checkBox30";
-            checkBox30.Size = new Size(73, 19);
+            checkBox30.Size = new Size(96, 19);
             checkBox30.TabIndex = 31;
-            checkBox30.Text = "VCRedist";
+            checkBox30.Text = "VCRedist AIO";
             checkBox30.UseVisualStyleBackColor = false;
             checkBox30.CheckedChanged += checkBox30_CheckedChanged;
             // 
